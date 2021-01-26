@@ -1,1 +1,1 @@
-web: python mybot.py
+web: start mybot.exe
